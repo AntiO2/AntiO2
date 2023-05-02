@@ -48,7 +48,7 @@
 
 ## Work Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AntiO2"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AntiO2&range=all_time"  />
 </div>
 <!--
 **AntiO2/AntiO2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
